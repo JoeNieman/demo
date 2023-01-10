@@ -1,14 +1,19 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+"alert_locations": [
+{
+"id": "f493e2bc-6feb-409b-a3da-1d24c93c8aef",
+"type": "emergency",
+"start_time": "2019-03-19T04:44:39+0000",
+"lat": 41.86734,
+"lon": -87.6281,
+"alt": 0,
+"street_name": "West Roosevelt Road",
+"things": [
+{
+"id": "0c505a3e-0faf-4b1f-a8d0-179a6831ebde",
+"type": "police"
 }
+
+]
+}
+]

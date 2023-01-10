@@ -1,17 +1,4 @@
 {
-“type”: “alert_location”,
-"id": "3468e09a-2a64-4c51-a50b-6521c2a7cc92",
-"location_type": "emergency",
-"start_time": "2019-05-03T17:10:08+0000",
-"lat": 41.948,
-"lon": -87.65,
-"alt": 0,
-“is_active”: true,
-"street_name": "North Halsted Street",
-"things_active": [
-{
-"id": "3142fbf5-dc4a-4699-97a3-9f45e368532e",
-"type": "police"
-}
-]
+  "id": 1,
+  "title": "hello"
 }
